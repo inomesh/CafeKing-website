@@ -1,0 +1,62 @@
+.nav-wrapper{
+    background-color: #6f4037;  
+}
+.brand-logo{
+    margin-left: 30px;
+    font-family: cursive;
+}
+
+#nav-mobile{
+    color: white;
+   align-content: center;
+   margin-right: 10px;
+}
+
+blockquote {
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid black;
+}
+
+#Icon1{
+    color: white;
+
+}
+#Icon2{
+    color: black;
+    
+
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #6f4037;
+}
+.move{
+    margin-top: 30px;
+    color: #6f4037;
+    font-style: italic;
+    font-size: medium;
+}
+.card{
+    height: 500px;
+    width: 500px;   
+}
+
+.parallax-container{
+    min-height: 280px;
+    width: auto;
+}
+
+.icon-color{
+    color: #6f4037;
+}
+
+.footer-one{
+    background: #6f4037;
+    text-align: left;
+}
+
+.footer-two{
+    background: #462822;
+    
+}
