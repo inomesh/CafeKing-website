@@ -1,3 +1,8 @@
+document.addEventListener('DOMContentLoaded',()=>{
+    alert('hello fuckers') 
+});
+
+
 $(document).ready(function(){
     $(".modal").modal();
     $(".parallax").parallax();
